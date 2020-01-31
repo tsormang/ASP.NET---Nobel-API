@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NobelProjectAPI", "NobelProjectAPI\NobelProjectAPI.csproj", "{9BDA4B5E-5D07-4A6C-B5EC-50B349E29E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDA4B5E-5D07-4A6C-B5EC-50B349E29E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDA4B5E-5D07-4A6C-B5EC-50B349E29E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDA4B5E-5D07-4A6C-B5EC-50B349E29E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDA4B5E-5D07-4A6C-B5EC-50B349E29E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5733F9A8-C417-4DC1-87C5-9AA9578573F7}
+	EndGlobalSection
+EndGlobal

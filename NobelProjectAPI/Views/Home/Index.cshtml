@@ -1,0 +1,263 @@
+﻿@model IEnumerable<NobelProjectAPI.Models.Prize>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-10">
+                <section id="buttons">
+                    <input type="button" class="btn btn-primary" id="getbutton" name="btnSave" value="Retrieve Data" />
+                    <input type="button" class="btn btn-success" id="showbutton" name="btnSave" value="Count Data" />
+                    <input type="button" class="btn btn-info" id="savebutton" name="btnSave" value="Save Data" />
+                    <input type="button" class="btn btn-danger" id="clearbutton" name="btnSave" value="Clear Data" />
+                </section>
+            </div>
+            <br />
+            <div class="col-4">
+                <section class="form-inline">
+                    <input class="form-control form-inline" type="text" id="yearInput" onkeyup="yearSearchFunction()" placeholder="Search per Year..">
+                    <input class="form-control form-inline" type="text" id="myInput" onkeyup="searchFunction()" placeholder="Search for Last Names..">
+                </section>
+            </div>
+            <br />
+            <section id="counting">   <strong id="prizecount"> </strong>  </section>
+            
+            
+        </div>
+    </div>
+    <br />
+    <div class="container">
+        <div class="row">
+            <div class="col-10">
+                <table id="prizetable" class="table table-responsive">
+                    <tr>
+                        <th>
+                            Year
+                        </th>
+                        <th>
+                            Category
+                        </th>
+                        <th>
+                            First Name
+                        </th>
+                        <th>
+                            Last Name
+                        </th>
+                        <th></th>
+                    </tr>
+                    <tbody id="tbody"> </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+
+        function Prize(year, category, firstname, surname) {
+
+            this.Year = year;
+            this.Category = category;
+            this.Firstname = firstname;
+            this.Surname = surname;
+
+        }
+
+
+        var Prizes = [];
+        var pr;
+
+        $("#getbutton").click(function () {
+
+            $.ajax({
+                type: "GET",
+                dataType: "json",
+                contentType: "application/json",
+                url: "https://api.nobelprize.org/v1/prize.json?",
+
+                success: function (data) {
+                    console.log(data);
+
+                    $("#tbody tr").remove();
+                    Prizes = [];
+
+                    $.each(data.prizes, function (i, prize) {
+
+                        if (typeof prize.laureates === 'undefined') {
+
+                            pr = new Prize(prize.Year, prize.Category, "no firstname", "no lastname");
+                        }
+                        else {
+                            pr = new Prize(prize.year, prize.category, prize.laureates[0].firstname, prize.laureates[0].surname);
+                        }
+
+                        Prizes.push(pr);
+                       //console.log(pr);
+
+                        $("#tbody").append(" <tr><td>" +
+                            pr.Year +
+                            "</td><td>" +
+                            pr.Category +
+                            "</td><td>" +
+                            pr.Firstname +
+                            "</td><td>" +
+                            pr.Surname +
+                            "</td></tr>"
+
+                        );
+
+
+                    })
+
+
+                   CountPrizesfunc();
+
+                }
+            });
+
+
+        });
+
+
+
+
+
+
+          $("#showbutton").click(function () {
+
+              CountPrizesfunc();
+
+              $.ajax({
+                  type: "POST",
+                  dataType: "json",
+                  contentType: "application/json",
+                  url: "@Url.Action("GetPrizes", "Prize")",
+
+                  success: function (data) {
+                      console.log(data);
+
+                      if (CountPrizesfunc()===0) {
+
+                         $("#tbody tr").remove();
+                      }
+
+
+                  }
+
+
+              });
+
+
+          });
+
+
+
+
+        $("#savebutton").click(function (e) {
+            e.preventDefault();
+
+
+            $.when($.ajax({
+                type: "POST",
+                url: "@Url.Action("SavePrizes", "Prize")",
+                dataType: "JSON",
+                cache: false,
+                traditional: true,
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify({ Prizes: Prizes }),
+
+                success: CountPrizesfunc()
+
+
+          })).done(CountPrizesfunc());
+
+        });
+
+
+
+
+         $('#clearbutton').click(function () {
+             Prizes = [];
+             $('#prizecount').html("Prize Objects in our Database: 0 " );
+             $.post("@Url.Action("ClearPrizes","Prize")");
+
+             $("#tbody tr").remove();
+
+
+
+         });
+
+
+
+        function CountPrizesfunc () {
+             $.when(  $.ajax({
+                type: "POST",
+                dataType: "json",
+                contentType: "application/json",
+                url: "@Url.Action("CountPrizes", "Prize")",
+
+
+             })).then(function (data) {
+                  $('#prizecount').html("Prize Objects in our Database: " + data );
+             });
+        }
+
+
+
+
+        function searchFunction() {
+             // Declare variables
+                  var input, filter, table, tr, td, i, txtValue;
+                  input = document.getElementById("myInput");
+                  filter = input.value.toUpperCase();
+                  table = document.getElementById("prizetable");
+                  tr = table.getElementsByTagName("tr");
+
+                  // Loop through all table rows, and hide those who don't match the search query
+                  for (i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td")[3];
+                    if (td) {
+                      txtValue = td.textContent || td.innerText;
+                      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                      } else {
+                        tr[i].style.display = "none";
+                      }
+                    }
+                  }
+        }
+
+
+
+          function yearSearchFunction() {
+             // Declare variables
+                  var input, filter, table, tr, td, i, txtValue;
+                  input = document.getElementById("yearInput");
+                  filter = input.value.toUpperCase();
+                  table = document.getElementById("prizetable");
+                  tr = table.getElementsByTagName("tr");
+
+                  // Loop through all table rows, and hide those who don't match the search query
+                  for (i = 0; i < tr.length; i++) {
+                    td = tr[i].getElementsByTagName("td")[0];
+                    if (td) {
+                      txtValue = td.textContent || td.innerText;
+                      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                      } else {
+                        tr[i].style.display = "none";
+                      }
+                    }
+                  }
+        }
+
+
+
+
+
+
+    </script>
+
+</body>

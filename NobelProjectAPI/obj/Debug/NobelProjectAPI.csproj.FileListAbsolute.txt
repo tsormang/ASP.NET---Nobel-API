@@ -1,0 +1,338 @@
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.dll.config
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.pdb
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.exe
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.exe.config
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.rsp
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.exe
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.exe.config
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.rsp
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Console.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.exe
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.exe.config
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.rsp
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Antlr3.Runtime.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Newtonsoft.Json.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Helpers.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Mvc.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Optimization.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Razor.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\WebGrease.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Helpers.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Mvc.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Optimization.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Razor.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Newtonsoft.Json.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.csprojAssemblyReference.cache
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.csproj.CopyComplete
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.pdb
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.xml
+C:\Users\Babis\source\repos\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.dll.config
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\NobelProjectAPI.pdb
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.exe
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.exe.config
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csc.rsp
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.exe
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.exe.config
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\csi.rsp
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Console.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.exe
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.exe.config
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\vbc.rsp
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Antlr3.Runtime.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Newtonsoft.Json.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Helpers.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Mvc.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Optimization.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Razor.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\WebGrease.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Helpers.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Mvc.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Optimization.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Razor.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Newtonsoft.Json.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.csproj.CopyComplete
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.dll
+C:\Users\Babis\Desktop\NobelProjectAPI\NobelProjectAPI\obj\Debug\NobelProjectAPI.pdb
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\NobelProjectAPI.dll.config
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\NobelProjectAPI.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\NobelProjectAPI.pdb
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csc.exe
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csc.exe.config
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csc.rsp
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csi.exe
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csi.exe.config
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\csi.rsp
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Console.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\vbc.exe
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\vbc.exe.config
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\vbc.rsp
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Antlr3.Runtime.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\EntityFramework.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Newtonsoft.Json.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Helpers.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Http.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Mvc.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Optimization.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Razor.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\WebGrease.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\EntityFramework.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Helpers.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Mvc.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Optimization.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Razor.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Newtonsoft.Json.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Http.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\obj\Debug\NobelProjectAPI.csprojResolveAssemblyReference.cache
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\obj\Debug\NobelProjectAPI.dll
+C:\Users\Georgios.Tsorman\Desktop\Nobel-Prizes-API-ASP.NET-MVC-AJAX-master\NobelProjectAPI\obj\Debug\NobelProjectAPI.pdb
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\NobelProjectAPI.dll.config
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\NobelProjectAPI.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\NobelProjectAPI.pdb
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csc.exe
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csc.exe.config
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csc.rsp
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csi.exe
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csi.exe.config
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\csi.rsp
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Console.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\vbc.exe
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\vbc.exe.config
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\vbc.rsp
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Antlr3.Runtime.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\EntityFramework.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Newtonsoft.Json.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Helpers.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Http.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Mvc.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Optimization.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Razor.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\WebGrease.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\EntityFramework.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Helpers.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Mvc.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Optimization.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Razor.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Newtonsoft.Json.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Http.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\obj\Debug\NobelProjectAPI.dll
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\obj\Debug\NobelProjectAPI.pdb
+C:\Users\Georgios.Tsorman\ASP.NET\Nobel Api\NobelProjectAPI\obj\Debug\NobelProjectAPI.csprojResolveAssemblyReference.cache
